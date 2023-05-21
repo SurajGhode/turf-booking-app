@@ -84,7 +84,7 @@ const AccountScreen = ({ navigation }) => {
             },
           ]}
         >
-         ''
+         Suraj
         </Text>
 
         <Text
@@ -95,7 +95,7 @@ const AccountScreen = ({ navigation }) => {
             },
           ]}
         >
-          ''@info.com
+          suraj@gmail.com
         </Text>
       </View>
 
